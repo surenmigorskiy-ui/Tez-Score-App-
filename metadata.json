@@ -1,0 +1,5 @@
+{
+  "name": "Match Calendar",
+  "description": "An application to find upcoming football matches for your favorite teams, view today's matches, and export schedules to your calendar, all powered by Gemini.",
+  "requestFramePermissions": []
+}
